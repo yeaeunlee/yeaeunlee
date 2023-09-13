@@ -1,12 +1,8 @@
-### YeEun Profile 👋
+YeEun Profile 👋
 
-<!--
-**yeaeunlee/yeaeunlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hello I'm YeEunLee
 Gachon.Univ : medcial Medical management & Software double major
-
-
 
 <div style="display:flex; flex-direction:row;">
     <a href="leeyeeun@gachon.ac.kr">
