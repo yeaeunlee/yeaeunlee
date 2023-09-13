@@ -2,9 +2,9 @@
 
 
 ### Hello I'm YeEunLee <br>
-Gachon.Univ : Medical management & AI Software double major <br>
+I'm in Dept. of  Medical management & AI Software double major, Gachon Univ. <br>
 I am interested in medical big data. <br>
-I'm still learning and thanks<br><br><br><hr>
+Still learning and thanks<br><br><br><hr>
 
 
 ### 📞 Contact
